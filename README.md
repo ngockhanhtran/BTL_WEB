@@ -1,4 +1,4 @@
-Đây là dự án Bài tập lớn của Nhóm 4, xây dựng một trang web thương mại điện tử chuyên bán điện thoại di động (The Mobile Zone).
+Đây là dự án Bài tập lớn, xây dựng một trang web thương mại điện tử chuyên bán điện thoại di động (The Mobile Zone).
 
 Giao diện được thiết kế thân thiện, trực quan, dễ sử dụng và có đầy đủ các chức năng của một trang bán hàng cơ bản.
 
